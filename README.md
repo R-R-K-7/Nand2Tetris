@@ -1,5 +1,3 @@
-### R RISHEE KESHAVAN 112401028
-
 ## Assembler
 
 ### How to Use
